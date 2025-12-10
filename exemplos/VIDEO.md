@@ -1,20 +1,68 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+🎥 Vídeo: O Foco Como Superpoder na Era Digital
+📒 Descrição
 
-## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este episódio de 1 minuto mergulha no impacto da Economia da Atenção, mostra por que estamos cada vez mais distraídos e apresenta como o foco se tornou o verdadeiro superpoder do século XXI.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+🎧 Ferramentas Utilizadas
 
-## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+ChatGPT – para criação e refinamento do roteiro;
 
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Colossyan – para gerar o avatar e a voz do narrador (voz estilo Antônio);
 
-[LINK PARA O VÍDEO AQUI]()
+Adobe Premiere Pro – para edição final do vídeo do podcast (versão audiovisual).
 
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+🛠️ Processo de Criação do Episódio
+
+Agora completamente adaptado ao nosso conteúdo do podcast:
+
+1. Criação do Roteiro (ChatGPT)
+
+O roteiro foi elaborado com foco em explicar de forma clara e direta:
+
+como a Economia da Atenção rouba nosso tempo;
+
+por que nossa concentração está diminuindo;
+
+como a multitarefa afeta o cérebro;
+
+por que o deep work é a solução real;
+
+técnicas práticas para treinar o foco.
+
+O texto foi refinado para caber em 1 minuto sem perder profundidade.
+
+2. Geração do Avatar e Voz (Colossyan)
+
+No Colossyan:
+
+Escolhi um avatar com aparência séria e moderna para combinar com o tema;
+
+Configurei uma voz grave e firme, semelhante à voz “Antônio”, dando ritmo de podcast profissional;
+
+Ajustei pausas, entonação e cadência para gerar impacto;
+
+Renderizei a narração com o avatar falando o texto do podcast.
+
+3. Edição Final (Adobe Premiere Pro)
+
+O material vindo do Colossyan foi editado no Premiere com:
+
+cortes precisos,
+
+trilha sonora leve e futurista,
+
+legendas sincronizadas,
+
+pequenos efeitos de movimento e contraste,
+
+finalização em 1080p para versões de TikTok, Shorts e Reels.
+
+https://youtu.be/uF1J9kGJq4M
+
+🚀 Resultados
+
+O episódio mostra, em apenas 60 segundos, como nosso foco está sendo corroído por gatilhos digitais e por que aprender a dominar a concentração virou fator decisivo para estudar melhor, trabalhar melhor e viver com mais clareza.
+
+💭 Reflexão
+
+Produzir esse episódio unindo roteiro inteligente, avatar realista e edição profissional foi uma ótima forma de transformar um tema complexo — foco na era digital — em conteúdo rápido, acessível e impactante.
